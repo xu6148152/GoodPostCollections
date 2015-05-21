@@ -1,0 +1,2 @@
+# GoodPostCollections
+collecting good posts
