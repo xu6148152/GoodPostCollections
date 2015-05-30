@@ -5,4 +5,6 @@ collecting good posts
 
 [Automating Android Screenshots](https://medium.com/@swanhtet1992/automating-android-screenshots-5b7574c0621d)  
 
-[custom viewgroups](https://sriramramani.wordpress.com/2015/05/06/custom-viewgroups/)
+[custom viewgroups](https://sriramramani.wordpress.com/2015/05/06/custom-viewgroups/)  
+
+[google-java-style](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
