@@ -7,4 +7,6 @@ collecting good posts
 
 [custom viewgroups](https://sriramramani.wordpress.com/2015/05/06/custom-viewgroups/)  
 
-[google-java-style](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
+[google-java-style](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)  
+
+[Span](http://flavienlaurent.com/blog/2014/01/31/spans/)
