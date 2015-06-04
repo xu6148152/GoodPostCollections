@@ -9,4 +9,6 @@ collecting good posts
 
 [google-java-style](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)  
 
-[Span](http://flavienlaurent.com/blog/2014/01/31/spans/)
+[Span](http://flavienlaurent.com/blog/2014/01/31/spans/)  
+
+[FlyRefresh analysis](http://www.race604.com/flyrefresh/)
