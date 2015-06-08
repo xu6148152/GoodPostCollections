@@ -12,4 +12,7 @@ collecting good posts
 [Span](http://flavienlaurent.com/blog/2014/01/31/spans/)  
 
 [FlyRefresh analysis](http://www.race604.com/flyrefresh/)  
-[android-annotations]([android-annotations](http://tools.android.com/tech-docs/support-annotations))
+
+[android-annotations](http://tools.android.com/tech-docs/support-annotations)  
+
+[android develop](https://medium.com/google-developers)
