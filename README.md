@@ -15,4 +15,6 @@ collecting good posts
 
 [android-annotations](http://tools.android.com/tech-docs/support-annotations)  
 
-[android develop](https://medium.com/google-developers)
+[android develop](https://medium.com/google-developers)  
+
+[reactive-programming](https://www.bignerdranch.com/blog/what-is-functional-reactive-programming/)
