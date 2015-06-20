@@ -22,4 +22,4 @@ collecting good posts
 
 
 ##Blogs
-http://trickyandroid.com/
+http://trickyandroid.com/(about gradle)
