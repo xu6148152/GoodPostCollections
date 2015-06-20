@@ -18,7 +18,7 @@ collecting good posts
 
 [android develop](https://medium.com/google-developers)  
 
-[reactive-programming](https://www.bignerdranch.com/blog/what-is-functional-reactive-programming/)[chinese version](http://asce1885.gitbooks.io/android-rd-senior-advanced/content/)
+[reactive-programming](https://www.bignerdranch.com/blog/what-is-functional-reactive-programming/)  [chinese version](http://asce1885.gitbooks.io/android-rd-senior-advanced/content/)
 
 
 ##Blogs
