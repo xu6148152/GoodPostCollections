@@ -26,7 +26,6 @@ collecting good posts
 
 [Codelab for Android Design Support Library used in I/O Rewind Bangkok session](http://inthecheesefactory.com/blog/android-design-support-library-codelab/en)
 
-
 ##Blogs
 [trickyandroid](http://trickyandroid.com/)(about gradle)  
 [yalantis](http://yalantis.com/blog/)
