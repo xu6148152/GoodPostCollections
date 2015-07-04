@@ -30,5 +30,7 @@ collecting good posts
 
 ##Blogs
 [trickyandroid](http://trickyandroid.com/)(about gradle)  
-[yalantis](http://yalantis.com/blog/)
+
+[yalantis](http://yalantis.com/blog/)  
+
 [codepth](https://guides.codepath.com)
