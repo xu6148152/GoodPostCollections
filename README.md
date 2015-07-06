@@ -28,6 +28,8 @@ collecting good posts
 
 [Handling-Scrolls-with-CoordinatorLayout](https://guides.codepath.com/android/Handling-Scrolls-with-CoordinatorLayout)
 
+[regex](http://deerchao.net/tutorials/regex/regex.htm)
+
 ##Blogs
 [trickyandroid](http://trickyandroid.com/)(about gradle)  
 
