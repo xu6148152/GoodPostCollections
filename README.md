@@ -43,6 +43,8 @@ collecting good posts
 
 [good code style](http://blog.2baxb.me/)
 
+[fernandocejas](http://fernandocejas.com/)
+
 ##IOS
 [objcn](http://objccn.io/)  
 
