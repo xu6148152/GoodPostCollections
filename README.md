@@ -41,6 +41,8 @@ collecting good posts
 
 [ios&android](http://www.raywenderlich.com/)
 
+[good code style](http://blog.2baxb.me/)
+
 ##IOS
 [objcn](http://objccn.io/)  
 
