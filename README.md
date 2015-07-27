@@ -45,7 +45,7 @@ collecting good posts
 
 [fernandocejas](http://fernandocejas.com/)  
 
-[hannesdorfmann](http://hannesdorfmann.com/)
+[hannesdorfmann](http://hannesdorfmann.com/)(SOFTWARE ARCHITECT)
 
 ##IOS
 [objcn](http://objccn.io/)  
