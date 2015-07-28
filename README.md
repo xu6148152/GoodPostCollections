@@ -54,7 +54,7 @@ collecting good posts
 
 [swift ui](http://www.raywenderlich.com/)  
 
-[ios learn](http://southpeak.github.io/blog/archives/)
+[ios learn](http://southpeak.github.io/blog/archives/)  
 
 
 ##Both
