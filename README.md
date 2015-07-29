@@ -58,4 +58,4 @@ collecting good posts
 
 
 ##Both
-[13-android-ios-newsletters-to-read](http://blog.instabug.com/2015/07/13-android-ios-newsletters-to-read/)
+[13-android-ios-newsletters-to-read](http://blog.instabug.com/2015/07/13-android-ios-newsletters-to-read/)  
