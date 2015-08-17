@@ -32,7 +32,9 @@ collecting good posts
 
 [Architecting Android…The evolution](http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/)  
 
-[squeezing-gradle-builds](http://saulmm.github.io/squeezing-gradle-builds/)
+[squeezing-gradle-builds](http://saulmm.github.io/squeezing-gradle-builds/)  
+
+[quick return with recyclerview](https://medium.com/@bherbst/quick-return-with-recyclerview-e70c8da9b4c1)
 
 ##Blogs
 [trickyandroid](http://trickyandroid.com/)(about gradle)  
