@@ -34,7 +34,9 @@ collecting good posts
 
 [squeezing-gradle-builds](http://saulmm.github.io/squeezing-gradle-builds/)  
 
-[quick return with recyclerview](https://medium.com/@bherbst/quick-return-with-recyclerview-e70c8da9b4c1)
+[quick return with recyclerview](https://medium.com/@bherbst/quick-return-with-recyclerview-e70c8da9b4c1)  
+
+[like Asernal](http://www.android-gems.com/)
 
 ##Blogs
 [trickyandroid](http://trickyandroid.com/)(about gradle)  
