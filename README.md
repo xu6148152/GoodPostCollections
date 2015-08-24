@@ -36,7 +36,9 @@ collecting good posts
 
 [quick return with recyclerview](https://medium.com/@bherbst/quick-return-with-recyclerview-e70c8da9b4c1)  
 
-[like Asernal](http://www.android-gems.com/)
+[like Asernal](http://www.android-gems.com/)  
+
+[sdk api_diff](http://developer.android.com/sdk/api_diff/23/changes.html)
 
 ##Blogs
 [trickyandroid](http://trickyandroid.com/)(about gradle)  
