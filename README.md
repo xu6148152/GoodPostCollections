@@ -66,7 +66,7 @@ collecting good posts
 [appcoda](http://www.appcoda.com/)  
 [swift常用数据结构和算法](http://waynewbishop.com/swift)  
 [ios yulingtianxia](http://yulingtianxia.com/)
-
+[swift翻译](http://swift.gg/)
 
 ##Both
 [13-android-ios-newsletters-to-read](http://blog.instabug.com/2015/07/13-android-ios-newsletters-to-read/)    
