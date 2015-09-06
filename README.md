@@ -69,6 +69,7 @@ collecting good posts
 [swift翻译](http://swift.gg/)  
 [OneCat](http://swifter.tips/)
 
+[nshipster](http://nshipster.com/)
 ##Both
 [13-android-ios-newsletters-to-read](http://blog.instabug.com/2015/07/13-android-ios-newsletters-to-read/)    
 [speakerdeck](https://speakerdeck.com/)
