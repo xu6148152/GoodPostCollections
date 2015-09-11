@@ -55,7 +55,7 @@ collecting good posts
 
 [hannesdorfmann](http://hannesdorfmann.com/)(SOFTWARE ARCHITECT)  
 
-[swift2 natashatherobot](http://natashatherobot.com/)
+[swift2 natashatherobot](http://natashatherobot.com/)  
 
 ##IOS
 [objcn](http://objccn.io/)  
