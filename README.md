@@ -73,7 +73,9 @@ collecting good posts
 
 [lvwenhan](http://lvwenhan.com/)  
 
-[swift weekly2](http://swiftsandbox.io/)
+[swift weekly2](http://swiftsandbox.io/)  
+
+[hacking swift](https://www.hackingwithswift.com/)
 
 ##Both
 [13-android-ios-newsletters-to-read](http://blog.instabug.com/2015/07/13-android-ios-newsletters-to-read/)    
