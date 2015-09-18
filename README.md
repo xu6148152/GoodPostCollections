@@ -20,7 +20,7 @@ collecting good posts
 
 [reactive-programming](https://www.bignerdranch.com/blog/what-is-functional-reactive-programming/)  [chinese version](http://asce1885.gitbooks.io/android-rd-senior-advanced/content/)  
 
-[Exploring the new Android Design Support  Library](https://medium.com/ribot-labs/exploring-the-new-android-design-support-library-b7cda56d2c32)  
+[Exploring the new Android Design Support  Library](https://medium.com/ribot-labs/exploring-the-new-android-design-support-library-b7cda56d2c32)   
 
 [How to improve quality and syntax of your Android code](http://vincentbrison.com/2014/07/19/how-to-improve-quality-and-syntax-of-your-android-code/)  
 
