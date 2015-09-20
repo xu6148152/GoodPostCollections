@@ -82,5 +82,7 @@ collecting good posts
 [speakerdeck](https://speakerdeck.com/)  
 
 ##safe
-[wooyun](http://drops.wooyun.org/)  
+[wooyun](http://drops.wooyun.org/) 
+
+[defend apk decompile](http://www.freebuf.com/tools/76884.html)
 
