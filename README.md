@@ -96,7 +96,8 @@ collecting good posts
 [stanford algorithm](http://web.stanford.edu/class/cs97si/)  
 
 ##React-Native
-[react.parts](https://react.parts/native)
+[react.parts](https://react.parts/native)  
+[FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ##JavaScript
 [codecademy](https://www.codecademy.com/)
