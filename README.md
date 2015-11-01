@@ -91,3 +91,6 @@ collecting good posts
 
 ##Amazing Group
 [Yalantis](https://github.com/Yalantis)
+
+##Algorithm
+[stanford algorithm](http://web.stanford.edu/class/cs97si/)
