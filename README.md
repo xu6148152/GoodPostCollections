@@ -97,3 +97,6 @@ collecting good posts
 
 ##React-Native
 [react.parts](https://react.parts/native)
+
+##JavaScript
+[codecademy](https://www.codecademy.com/)
