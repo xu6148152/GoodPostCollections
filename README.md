@@ -38,7 +38,9 @@ collecting good posts
 
 [like Asernal](http://www.android-gems.com/)  
 
-[sdk api_diff](http://developer.android.com/sdk/api_diff/23/changes.html)
+[sdk api_diff](http://developer.android.com/sdk/api_diff/23/changes.html)  
+
+[build videos](https://yalantis.com/blog/video-recording-app-development-how-we-built-instagram-for-videos/)
 
 ###Gradle
 [Sign multiple flavors with different keystores](http://blog.tunebrains.com/2015/10/02/gradle-multi-flavors-signing.html)
