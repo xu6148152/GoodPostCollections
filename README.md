@@ -62,7 +62,9 @@ collecting good posts
 
 [swift2 natashatherobot](http://natashatherobot.com/)     
 
-[bherbst](https://medium.com/@bherbst)
+[bherbst](https://medium.com/@bherbst)  
+
+[hitherejoe](https://medium.com/@hitherejoe)
 
 ##IOS
 [objcn](http://objccn.io/)  
