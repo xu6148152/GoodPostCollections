@@ -87,6 +87,7 @@ collecting good posts
 ##Both
 [13-android-ios-newsletters-to-read](http://blog.instabug.com/2015/07/13-android-ios-newsletters-to-read/)    
 [speakerdeck](https://speakerdeck.com/)  
+[saulmm](http://saulmm.github.io/)
 
 ##safe
 [wooyun](http://drops.wooyun.org/) 
