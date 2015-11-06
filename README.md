@@ -107,4 +107,7 @@ collecting good posts
 [FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ##JavaScript
-[codecademy](https://www.codecademy.com/)
+[codecademy](https://www.codecademy.com/)  
+
+##machine learning
+[dive into machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
