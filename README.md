@@ -64,7 +64,9 @@ collecting good posts
 
 [bherbst](https://medium.com/@bherbst)  
 
-[hitherejoe](https://medium.com/@hitherejoe)
+[hitherejoe](https://medium.com/@hitherejoe)  
+
+[instagram](http://instagram-engineering.tumblr.com/)
 
 ##IOS
 [objcn](http://objccn.io/)  
