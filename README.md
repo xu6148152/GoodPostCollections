@@ -86,7 +86,8 @@ collecting good posts
 
 [swift weekly2](http://swiftsandbox.io/)  
 
-[hacking swift](https://www.hackingwithswift.com/)
+[hacking swift](https://www.hackingwithswift.com/)  
+[Bang Blog](http://blog.cnbang.net/)
 
 ##Both
 [13-android-ios-newsletters-to-read](http://blog.instabug.com/2015/07/13-android-ios-newsletters-to-read/)    
