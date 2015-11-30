@@ -40,7 +40,9 @@ collecting good posts
 
 [sdk api_diff](http://developer.android.com/sdk/api_diff/23/changes.html)  
 
-[build videos](https://yalantis.com/blog/video-recording-app-development-how-we-built-instagram-for-videos/)
+[build videos](https://yalantis.com/blog/video-recording-app-development-how-we-built-instagram-for-videos/)  
+
+[android-build-speed-up-ver-engine](https://medium.com/@jsuch2362/android-build-speed-up-ver-english-c76890aa610#.elxkv5hp5)
 
 ###Gradle
 [Sign multiple flavors with different keystores](http://blog.tunebrains.com/2015/10/02/gradle-multi-flavors-signing.html)
