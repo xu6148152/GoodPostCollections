@@ -42,7 +42,9 @@ collecting good posts
 
 [build videos](https://yalantis.com/blog/video-recording-app-development-how-we-built-instagram-for-videos/)  
 
-[android-build-speed-up-ver-engine](https://medium.com/@jsuch2362/android-build-speed-up-ver-english-c76890aa610#.elxkv5hp5)
+[android-build-speed-up-ver-engine](https://medium.com/@jsuch2362/android-build-speed-up-ver-english-c76890aa610#.elxkv5hp5)  
+
+[methodscount](http://www.methodscount.com/)
 
 ###Gradle
 [Sign multiple flavors with different keystores](http://blog.tunebrains.com/2015/10/02/gradle-multi-flavors-signing.html)
