@@ -44,7 +44,9 @@ collecting good posts
 
 [android-build-speed-up-ver-engine](https://medium.com/@jsuch2362/android-build-speed-up-ver-english-c76890aa610#.elxkv5hp5)  
 
-[methodscount](http://www.methodscount.com/)
+[methodscount](http://www.methodscount.com/)  
+
+[android-development-culture-the-document-qualitymatters](http://artemzin.com/blog/android-development-culture-the-document-qualitymatters/)
 
 ###Gradle
 [Sign multiple flavors with different keystores](http://blog.tunebrains.com/2015/10/02/gradle-multi-flavors-signing.html)
