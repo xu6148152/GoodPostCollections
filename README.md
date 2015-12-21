@@ -46,7 +46,9 @@ collecting good posts
 
 [methodscount](http://www.methodscount.com/)  
 
-[android-development-culture-the-document-qualitymatters](http://artemzin.com/blog/android-development-culture-the-document-qualitymatters/)
+[android-development-culture-the-document-qualitymatters](http://artemzin.com/blog/android-development-culture-the-document-qualitymatters/)  
+
+[custom lint rules](http://jeremie-martinez.com/2015/12/15/custom-lint-rules/)
 
 ###Gradle
 [Sign multiple flavors with different keystores](http://blog.tunebrains.com/2015/10/02/gradle-multi-flavors-signing.html)
