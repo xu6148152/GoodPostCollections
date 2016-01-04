@@ -74,7 +74,9 @@ collecting good posts
 
 [hitherejoe](https://medium.com/@hitherejoe)  
 
-[instagram](http://instagram-engineering.tumblr.com/)
+[instagram](http://instagram-engineering.tumblr.com/)  
+
+[ianhlake](https://medium.com/@ianhlake) Google Android Developer
 
 ##IOS
 [objcn](http://objccn.io/)  
