@@ -76,7 +76,9 @@ collecting good posts
 
 [instagram](http://instagram-engineering.tumblr.com/)  
 
-[ianhlake](https://medium.com/@ianhlake) Google Android Developer
+[ianhlake](https://medium.com/@ianhlake) Google Android Developer  
+
+[michaelevans](http://michaelevans.org/)
 
 ##IOS
 [objcn](http://objccn.io/)  
