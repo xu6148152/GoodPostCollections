@@ -50,7 +50,9 @@ collecting good posts
 
 [custom lint rules](http://jeremie-martinez.com/2015/12/15/custom-lint-rules/)  
 
-[RxJava Executors](http://tomstechnicalblog.blogspot.com/2016/02/rxjava-understanding-observeon-and.html)
+[RxJava Executors](http://tomstechnicalblog.blogspot.com/2016/02/rxjava-understanding-observeon-and.html)  
+
+[RxJava parallelization](http://tomstechnicalblog.blogspot.com/2016/02/rxjava-maximizing-parallelization.html)
 
 ###Gradle
 [Sign multiple flavors with different keystores](http://blog.tunebrains.com/2015/10/02/gradle-multi-flavors-signing.html)
