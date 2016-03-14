@@ -54,7 +54,7 @@ collecting good posts
 
 [RxJava parallelization](http://tomstechnicalblog.blogspot.com/2016/02/rxjava-maximizing-parallelization.html)  
 
-[okhttp-cache](http://www.schibsted.pl/2016/02/hood-okhttps-cache/)
+[okhttp-cache](http://www.schibsted.pl/2016/02/hood-okhttps-cache/)  
 
 ###Gradle
 [Sign multiple flavors with different keystores](http://blog.tunebrains.com/2015/10/02/gradle-multi-flavors-signing.html)
@@ -84,7 +84,9 @@ collecting good posts
 
 [ianhlake](https://medium.com/@ianhlake) Google Android Developer  
 
-[michaelevans](http://michaelevans.org/)
+[michaelevans](http://michaelevans.org/)  
+
+[weishu](http://weishu.me/)
 
 ##IOS
 [objcn](http://objccn.io/)  
