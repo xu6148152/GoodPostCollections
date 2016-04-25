@@ -86,7 +86,9 @@ collecting good posts
 
 [michaelevans](http://michaelevans.org/)  
 
-[weishu](http://weishu.me/)
+[weishu](http://weishu.me/)  
+
+[akarnokd](http://akarnokd.blogspot.com/)(RxJava)
 
 ##IOS
 [objcn](http://objccn.io/)  
