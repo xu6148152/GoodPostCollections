@@ -90,7 +90,9 @@ collecting good posts
 
 [akarnokd](http://akarnokd.blogspot.com/)(RxJava)  
 
-[bigo](http://bigocheatsheet.com/)(algorithm)
+[bigo](http://bigocheatsheet.com/)(algorithm)  
+
+[ffmpeg csdn](http://blog.csdn.net/leixiaohua1020)
 
 ##IOS
 [objcn](http://objccn.io/)  
