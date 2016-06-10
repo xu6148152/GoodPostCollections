@@ -140,4 +140,7 @@ collecting good posts
 [Shape of javascrip](http://browniefed.com/blog/the-shapes-of-react-native/)  
 
 ##machine learning
-[dive into machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
+[dive into machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)  
+
+##Architecture
+[The Principles of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
