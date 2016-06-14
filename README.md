@@ -56,7 +56,9 @@ collecting good posts
 
 [okhttp-cache](http://www.schibsted.pl/2016/02/hood-okhttps-cache/)  
 
-[How to improve quality of android code](http://vincentbrison.com/2014/07/19/how-to-improve-quality-and-syntax-of-your-android-code/)
+[How to improve quality of android code](http://vincentbrison.com/2014/07/19/how-to-improve-quality-and-syntax-of-your-android-code/)  
+
+[android studio tip](http://saulmm.github.io/the-powerful-android-studio)
 
 ###Gradle
 [Sign multiple flavors with different keystores](http://blog.tunebrains.com/2015/10/02/gradle-multi-flavors-signing.html)
