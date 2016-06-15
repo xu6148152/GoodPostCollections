@@ -149,4 +149,6 @@ collecting good posts
 [dive into machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)  
 
 ##Architecture
-[The Principles of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
+[The Principles of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)  
+
+http://f2prateek.com/2015/10/05/rx-preferences/
