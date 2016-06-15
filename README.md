@@ -151,4 +151,3 @@ collecting good posts
 ##Architecture
 [The Principles of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)  
 
-http://f2prateek.com/2015/10/05/rx-preferences/
