@@ -60,7 +60,9 @@ collecting good posts
 
 [android studio tip](http://saulmm.github.io/the-powerful-android-studio)  
 
-[methodcount](http://jeroenmols.com/blog/2016/05/06/methodcount/)
+[methodcount](http://jeroenmols.com/blog/2016/05/06/methodcount/)  
+
+[Instagram-four-years-later](https://engineering.instagram.com/instagram-android-four-years-later-927c166b0201#.euit2auwe)
 
 ###Gradle
 [Sign multiple flavors with different keystores](http://blog.tunebrains.com/2015/10/02/gradle-multi-flavors-signing.html)
