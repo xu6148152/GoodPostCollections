@@ -64,7 +64,9 @@ collecting good posts
 
 [Instagram-four-years-later](https://engineering.instagram.com/instagram-android-four-years-later-927c166b0201#.euit2auwe)  
 
-[All the things transition](https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50#.bdkmipsph)
+[All the things transition](https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50#.bdkmipsph)  
+
+[Streamling android build process](https://medium.com/@jordanjoz/streamlining-eeros-android-build-process-6a870ef40a89#.scgdfn2i2)
 
 ###Gradle
 [Sign multiple flavors with different keystores](http://blog.tunebrains.com/2015/10/02/gradle-multi-flavors-signing.html)
