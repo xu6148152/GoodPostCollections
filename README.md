@@ -1,7 +1,7 @@
 # GoodPostCollections
 collecting good posts
 
-##Android
+## Android
 [Boosting the performance for Gradle in your Android projects](https://medium.com/@erikhellman/boosting-the-performance-for-gradle-in-your-android-projects-6d5f9e4580b6)   
 
 [Automating Android Screenshots](https://medium.com/@swanhtet1992/automating-android-screenshots-5b7574c0621d)  
@@ -68,10 +68,10 @@ collecting good posts
 
 [Streamling android build process](https://medium.com/@jordanjoz/streamlining-eeros-android-build-process-6a870ef40a89#.scgdfn2i2)
 
-###Gradle
+### Gradle
 [Sign multiple flavors with different keystores](http://blog.tunebrains.com/2015/10/02/gradle-multi-flavors-signing.html)
 
-##Blogs
+## Blogs
 [trickyandroid](http://trickyandroid.com/)(about gradle)  
 
 [yalantis](http://yalantis.com/blog/)  
@@ -106,7 +106,7 @@ collecting good posts
 
 [ffmpeg csdn](http://blog.csdn.net/leixiaohua1020)
 
-##IOS
+## IOS
 [objcn](http://objccn.io/)  
 
 [swift ui](http://www.raywenderlich.com/)  
@@ -127,35 +127,38 @@ collecting good posts
 [hacking swift](https://www.hackingwithswift.com/)  
 [Bang Blog](http://blog.cnbang.net/)
 
-##Both
+## Both
 [13-android-ios-newsletters-to-read](http://blog.instabug.com/2015/07/13-android-ios-newsletters-to-read/)    
 [speakerdeck](https://speakerdeck.com/)  
 [saulmm](http://saulmm.github.io/)
 
-##safe
+## safe
 [wooyun](http://drops.wooyun.org/) 
 
 [defend apk decompile](http://www.freebuf.com/tools/76884.html)  
 
-##Amazing Group
+## Amazing Group
 [Yalantis](https://github.com/Yalantis)
 
-##Algorithm
+## Algorithm
 [stanford algorithm](http://web.stanford.edu/class/cs97si/)  
 
-##React-Native
+## React-Native
 [react.parts](https://react.parts/native)  
 [FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-##JavaScript
+## JavaScript
 [codecademy](https://www.codecademy.com/)  
 [Shape of javascrip](http://browniefed.com/blog/the-shapes-of-react-native/)  
 
-##machine learning
+## machine learning
 [dive into machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)  
 
-##Architecture
+## Architecture
 [The Principles of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)  
 
-##OpenWrt
+## OpenWrt
 [openwrt](https://myop.cf)
+
+## Color
+[alpha](http://blog.mokrzycki.io/2015/07/converting-transparency-color-to-hex/)
